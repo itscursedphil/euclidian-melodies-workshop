@@ -267,8 +267,11 @@ layout: center
 - **\[4\]** Workshop Rack: https://modulargrid.net/e/racks/view/2815388
 
 ---
+layout: image
+image: /images/qrcode.png
+backgroundSize: 20rem
+---
 
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 
-<!--
-QR Code Präsentation
--->
+<center>https://itscursedphil.github.io/euclidian-melodies-workshop/</center>
