@@ -245,6 +245,42 @@ layout: center
 - Melodie kann von Rhythmus getrennt werden
 
 ---
+layout: image
+image: /images/em1.png
+backgroundSize: 54rem
+---
+
+---
+layout: image
+image: /images/em2.png
+backgroundSize: 54rem
+---
+
+---
+layout: image
+image: /images/em3.png
+backgroundSize: 54rem
+---
+
+---
+layout: image
+image: /images/em4.png
+backgroundSize: 54rem
+---
+
+---
+layout: image
+image: /images/em5.png
+backgroundSize: 54rem
+---
+
+---
+layout: image
+image: /images/em6.png
+backgroundSize: 54rem
+---
+
+---
 layout: center
 ---
 
