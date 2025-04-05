@@ -59,7 +59,7 @@ layout: center
 
 # Historischer Zuammenhang
 
-- entstehenden Rhythmen bilden fast alle wichtigen Rhythmen der Weltmusik ab (ausser einigen indischen Talas)
+- entstehende Rhythmen bilden fast alle wichtigen Rhythmen der Weltmusik ab (ausser einigen indischen Talas)
 - Beispiele:
   - **Bossa Nova** _(Brasilien)_: 5 Hits/16 Steps `[x - - x - - x - - x - - x - - -]`
   - **Cumbia** _(Kolumbien)_: 3 Hits/4 Steps `[x - x x]`
@@ -68,6 +68,10 @@ layout: center
   - **Asak** _(Turkei)_: 4 Hits/9 Steps `[x - x - x - x - -]`
   - **Mpre** _(Ghana)_: 7 Hits/12 Steps `[x - x x - x - x x - x -]`
   - **Samba** _(Brasilien)_: 7 Hits/16 Steps (Start auf 15) `[x - x - - x - x - x - - x - x -]`
+
+<!--
+Beispiele zeigen: https://dbkaplun.github.io/euclidean-rhythm/
+-->
 
 ---
 
@@ -97,7 +101,7 @@ image: images/geo1.png
   - Oberton/Unterton-Reihe
   - FM Synthese/Additive Synthese
   - ...
-- Musik auf Basis von mathematischen Konzepten betrachten kann zu spannenden musikalischen Ideen führen
+- Musik auf Basis von mathematischen Konzepten erkunden kann zu spannenden musikalischen Ideen führen
 
 ---
 layout: center
