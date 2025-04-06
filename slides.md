@@ -80,7 +80,7 @@ Beispiele zeigen: https://dbkaplun.github.io/euclidean-rhythm/
 - Bezeichnung “Euklidische Rhythmen” auf Basis des griechischen Mathematiker **Euclid** _(300 v. Chr.)_
 - Entdeckte Algorithmus um mathematisch den größten gemeinsamen Teiler von zwei Zahlen zu errechnen
 - Euklidische Rhythmen nutzen die Formel, um Schläge in Rhythmus möglichst gleichmäßig zu verteilen (Resultat: Numerisch geteilte Zahlen werden auf ein Grid quantisiert)
-- Mathematische Formel im Paper beschrieben: https://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf **\[2\]**
+- Mathematische Formel im Paper beschrieben: https://cgm.cs.mcgill.ca/~godfriedations/banff.pdf **\[2\]**
 
 ---
 layout: image-right
@@ -302,7 +302,7 @@ layout: center
 # Footnotes
 
 - **\[1\]** Wikipedia "Euclidian Rhythm": https://en.wikipedia.org/wiki/Euclidean_rhythm
-- **\[2\]** Paper _Godfried Toussaint - “The Euclidean Algorithm Generates Traditional Musical Rhythms”_: https://cgm.cs.mcgill.ca/~godfried/publications/banff.pdf
+- **\[2\]** Paper _Godfried Toussaint - “The Euclidean Algorithm Generates Traditional Musical Rhythms”_: https://cgm.cs.mcgill.ca/~godfriedations/banff.pdf
 - **\[3\]** Browser Visualisierung: https://dbkaplun.github.io/euclidean-rhythm/
 - **\[4\]** Workshop Rack: https://modulargrid.net/e/racks/view/2815388
 
